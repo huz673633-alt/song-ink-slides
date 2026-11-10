@@ -16,5 +16,5 @@
 ## 文件
 
 - [SKILL.md](SKILL.md) 说明制作与检查流程。
-- [视觉与版式](references/visual-system.md) 记录配色、字体与六种页面规则。
+- [视觉与版式](references/visual-system.md) 记录配色、字体与八种页面规则，含文献导读和可编辑时间线。
 - [《宋代青瓷》示例](examples/song-dynasty-celadon.pptx) 展示成品效果。器物照片来自大都会艺术博物馆的公有领域馆藏，来源见对应页的演讲者备注。山水是为模板制作的生成背景。
